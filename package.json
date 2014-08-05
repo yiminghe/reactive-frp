@@ -1,0 +1,10 @@
+{
+    "name": "reactive-frp",
+    "version": "0.1.0",
+    "description": "functional reactive programming",
+    "author": "yiminghe <yiminghe@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yiminghe/reactive-frp.git"
+    }
+}
