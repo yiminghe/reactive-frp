@@ -18,7 +18,6 @@ Property extends EventSteam
 ### class method
 EventStream.prototype.map
 EventStream.prototype.filter
-EventStream.prototype.flatMap
 EventStream.prototype.onValue
 EventStream.prototype.startsWith
 EventStream.prototype.combine
